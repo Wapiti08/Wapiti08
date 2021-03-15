@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Inventor is always the hero](https://github.com/Wapiti08/Wapiti08/blob/main/eed72b7345ada971d48db2eb2cb5c35b2836ffde.git)
+![Inventor is always the hero](https://raw.githubusercontent.com/Wapiti08/Wapiti08/main/eed72b7345ada971d48db2eb2cb5c35b2836ffde.gif)
 
  I am a developer and security consultant. I'm currently working on threat intelligence and anomaly detection with ML/DL. I have interests on any intricate questions related to cyber security. I am a big fun of advanced techniques, including big data, distributed system, real-time analysis. Always curious, alwarys learning.
 
