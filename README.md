@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ I am a developer and security consultant. I'm currently working on threat intelligence and anomaly detection with ML/DL. I have interests on any intricate questions related to cyber security. I am a big fun of advanced techniques, including big data, distributed system, real-time analysis.
+
 <!--
 **Wapiti08/Wapiti08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
