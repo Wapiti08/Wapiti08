@@ -1,4 +1,4 @@
-### AI 👋
+**In the end, the inventor is still the hero and always will be**
 
 ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
