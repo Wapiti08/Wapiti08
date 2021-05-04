@@ -1,6 +1,6 @@
 **In the end, the inventor is still the hero and always will be**
 
-![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
+  ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
  
 - I am a security data scientist
