@@ -1,6 +1,6 @@
 ### AI 👋
 
-![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
+！[Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
  
 - I am a developer and security consultant. 
