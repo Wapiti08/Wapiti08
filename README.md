@@ -1,6 +1,6 @@
 ### AI 👋
 
-![Inventor is always the hero](https://raw.githubusercontent.com/Wapiti08/Wapiti08/main/eed72b7345ada971d48db2eb2cb5c35b2836ffde.gif)
+![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/CLO20b_Sylvie_office_night_001.jpg)
 
  
 - I am a developer and security consultant. 
