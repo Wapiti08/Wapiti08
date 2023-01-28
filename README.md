@@ -3,7 +3,7 @@
   ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
  
-- I am a security data scientist
+- I am a PHD student with major in cyber defence and detection
 - I'm currently working on threat intelligence and anomaly detection with ML/DL. 
 - I have interests on any intricate questions related to cyber security. 
 - I am a big fun of advanced techniques, including big data, distributed system, real-time analysis. 
