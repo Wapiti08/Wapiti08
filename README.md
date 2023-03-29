@@ -6,9 +6,9 @@
 - I am a PHD student with major in cyber defence and detection
 - I'm currently working on threat intelligence and anomaly detection with ML/DL. 
 - I'm looking to collaborate on any academic level of AI + Cyber research projects (especially on privacy, machine learning security and threat intelligence)
-- Always curious, always learning.
 - Tech Stack: Python, Go, Scala, Rust, Tensorflow
 - Tech Areas: Anomaly Detection, NLP, Threat Intelligence, Machine Learning Security, Graph Theory Algorithms, Model Optimization, Causal Discovery
+- How to reach me: tzrzhuoran@gmail.com
 <!--
 **Wapiti08/Wapiti08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
