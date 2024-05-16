@@ -5,7 +5,7 @@
  
 - I am a PHD researcher with major in supply chain based cyber defence and detection
 - I'm currently working on Supply Chain Security, APT, Secure AI, DevSecOps, and Graph Neural Network 
-- I am open to collaborations on any academic level of AI + Cyber research projects or open-source projects (especially on software supply chain, machine learning security and threat intelligence)
+- I am open to collaborations on any AI + Cyber research projects or open-source projects (especially on software supply chain, machine learning security and threat intelligence)
 - Tech Stack: Python, Go, Rust, Tensorflow, Pytorch
 - Tech Areas: Anomaly Detection, Machine Learning Security, Threat Intelligence, Distributed and Scalable System Design, Graph Theory Algorithms, Graph Neural Network, Large Language Models
 - How to reach me: z.tan.1@research.gla.ac.uk
