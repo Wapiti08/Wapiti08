@@ -8,7 +8,6 @@
 - I am open to collaborations on any AI + Cyber research projects or open-source projects (especially on software supply chain, machine learning security and threat intelligence)
 - Tech Stack: Python, Go, Rust, Tensorflow, Pytorch
 - Tech Areas: Anomaly Detection, Machine Learning Security, Threat Intelligence, Distributed and Scalable System Design, Graph Theory Algorithms, Graph Neural Network, Large Language Models
-- How to reach me: z.tan.1@research.gla.ac.uk
 <!--
 **Wapiti08/Wapiti08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
