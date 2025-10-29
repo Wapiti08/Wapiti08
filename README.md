@@ -2,23 +2,25 @@
 
   ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
- 
-- I am a PHD researcher with major in supply chain based cyber defence and detection
-- I'm currently working on Supply Chain Security, APT, Secure AI, DevSecOps, and Graph Neural Network 
-- I am open to collaborations on any AI + Cyber research projects or open-source projects (especially on software supply chain, machine learning security and threat intelligence)
-- Tech Stack: Python, Go, Rust, Tensorflow, Pytorch
-- Tech Areas: Anomaly Detection, Machine Learning Security, Threat Intelligence, Distributed and Scalable System Design, Graph Theory Algorithms, Graph Neural Network, Large Language Models
-<!--
-**Wapiti08/Wapiti08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Zhuoran (Newt) Tan**, a PhD researcher in **Cybersecurity and AI** at the University of Glasgow.  
+My research focuses on **supply chain security, advanced persistent threats (APT), and secure AI systems**, combining graph-based learning and large language model (LLM) safety.
 
-Here are some ideas to get you started:
+🔍 **Current Work:**  
+- Supply Chain Vulnerability Detection and Causal Analysis  
+- AI Security & DevSecOps for Trustworthy ML Systems  
+- Temporal Graph Learning for Threat Attribution  
+- LLM Safety and Prompt Injection Defence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Collaboration:**  
+I’m open to research and open-source collaborations in **AI + Cybersecurity**, especially in:  
+- Software Supply Chain Defence  
+- Machine Learning Security  
+- Threat Intelligence and Graph-based Detection  
+
+🧠 **Tech Stack:**  
+Python · Go · Rust · PyTorch · TensorFlow
+
+⚙️ **Core Expertise:**  
+Anomaly Detection · Graph Neural Networks · Threat Intelligence  
+Machine Learning Security · Distributed & Scalable Systems  
+Large Language Models · Graph Algorithms
