@@ -21,6 +21,4 @@ I’m open to research and open-source collaborations in **AI + Cybersecurity**,
 Python · Go · Rust · PyTorch · TensorFlow
 
 ⚙️ **Core Expertise:**  
-Anomaly Detection · Graph Neural Networks · Threat Intelligence  
-Machine Learning Security · Distributed & Scalable Systems  
-Large Language Models · Graph Algorithms
+Anomaly Detection · Graph Neural Networks · Threat Intelligence · Machine Learning Security · Distributed & Scalable Systems · Large Language Models · Graph Algorithms
