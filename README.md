@@ -2,8 +2,8 @@
 
   ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
-👋 Hi, I'm **Zhuoran (Newt) Tan**, a PhD researcher in **Cybersecurity and AI** at the University of Glasgow.  
-My research focuses on **supply chain security, advanced persistent threats (APT), and secure AI systems**, combining graph-based learning and large language model (LLM) safety.
+👋 Hi, I’m Zhuoran (Newt) Tan, a PhD researcher in Cybersecurity and AI at the University of Glasgow.
+With over seven years of research and development experience in the security industry, I study the intersection of AI security, AI for security, and security for AI, focusing on supply chain security, threat intelligence, robust and trustworthy AI systems.
 
 🔍 **Current Work:**  
 - Supply Chain Vulnerability Detection and Causal Analysis  
