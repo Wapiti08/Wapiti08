@@ -13,7 +13,7 @@ With over seven years of research and development experience in the security ind
 
 🤝 **Collaboration:**  
 I’m open to research and open-source collaborations in **AI + Cybersecurity**, especially in:  
-- Software Supply Chain Defence  
+- Software Supply Chain Defence (Both Software and AI, MCP)
 - Machine Learning Security  
 - Threat Intelligence and Graph-based Detection  
 
