@@ -3,7 +3,7 @@
   ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
 👋 Hi, I’m Zhuoran (Newt) Tan, a PhD researcher in Cybersecurity and AI at the University of Glasgow.
-With over seven years of research and development experience in the security industry, I study the intersection of AI security, AI for security, and security for AI, focusing on supply chain security, threat intelligence, robust and trustworthy AI systems.
+With over seven years of research and development experience in the security industry, I work on system-level understanding and defense of semantic integrity violations in modern software and AI supply chains, focusing on how attacks propagate across time, dependencies, and execution boundaries—and how such propagation can be constrained by design.
 
 🔍 **Current Work:**  
 - Supply Chain Vulnerability Detection and Causal Analysis  
