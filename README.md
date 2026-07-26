@@ -3,22 +3,24 @@
   ![Daily Life](https://github.com/Wapiti08/Wapiti08/blob/main/index.jpg)
 
 👋 Hi, I’m Zhuoran (Newt) Tan, a PhD researcher in Cybersecurity and AI at the University of Glasgow.
-With over seven years of research and development experience in the security industry, I work on system-level understanding and defense of semantic integrity violations in modern software and AI supply chains, focusing on how attacks propagate across time, dependencies, and execution boundaries—and how such propagation can be constrained by design.
+
+My research focuses on agent security, AI supply chain security, and semantic integrity, especially how attacks propagate across prompts, tools, memory, dependencies, and execution boundaries.
 
 🔍 **Current Work:**  
-- Supply Chain Vulnerability Detection and Causal Analysis  
-- AI Security & DevSecOps for Trustworthy ML Systems  
-- Temporal Graph Learning for Threat Attribution  
-- LLM Safety and Prompt Injection Defence  
+- Agent and LLM Security
+- Software/AI Security Observability  
+- Software and AI Supply Chain Security
+- Temporal Graph Learning for Threat Analysis
 
 🤝 **Collaboration:**  
-I’m open to research and open-source collaborations in **AI + Cybersecurity**, especially in:  
-- Software Supply Chain Defence (Both Software and AI, MCP)
-- Machine Learning Security  
-- Threat Intelligence and Graph-based Detection  
+Open to research and open-source collaborations in:
+- Agentic AI Security (AI Red Teaming)
+- MCP Security (Lighweight Sandboxing)
+- Software Supply Chain Security
+- Bug Hunting
 
 🧠 **Tech Stack:**  
-Python · Go · Rust · PyTorch · TensorFlow
+Python · Go · Rust · TypeScript, Pytorch
 
 ⚙️ **Core Expertise:**  
-Anomaly Detection · Graph Neural Networks · Threat Intelligence · Machine Learning Security · Distributed & Scalable Systems · Large Language Models · Graph Algorithms
+Agent Security · LLM Security · Supply Chain Security · Graph Neural Networks · Threat Intelligence Research
