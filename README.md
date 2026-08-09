@@ -17,7 +17,7 @@ Open to research and open-source collaborations in:
 - Agentic AI Security (AI Red Teaming)
 - MCP Security (Lighweight Sandboxing)
 - Software Supply Chain Security
-- Bug Hunting
+- Bug Hunting/Binary Analysis (learning)
 
 🧠 **Tech Stack:**  
 Python · Go · Rust · TypeScript, Pytorch
